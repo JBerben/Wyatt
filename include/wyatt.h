@@ -14,11 +14,7 @@
 #ifndef wyatt_h
 #define wyatt_h
 
-/* Core engine modules */
-#include "wengine.h"
-#include "joycons.h"
 
-/* Wyatt Functions */
 
 
 

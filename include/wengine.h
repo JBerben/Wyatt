@@ -12,18 +12,8 @@
 #ifndef wengine_h
 #define wengine_h
 
-/* Standard includes */
-#include <stdlib.h>
-#include <stdint.h>
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
-#include <dirent.h>
-#include <assert.h>
-#include <math.h>
-#include <time.h>
-#include <signal.h>
-#include <float.h>
+
+
 
 
 
